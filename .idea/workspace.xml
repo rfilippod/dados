@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8eeef45-95f6-4406-bbfe-bddad5a25385" name="Changes" comment="">
+    <list default="true" id="6a2ac02f-ab76-43b1-a72c-f71d505c4354" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../BRKGA/.idea/BRKGA.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BRKGA_Final/.idea/BRKGA_Final.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GA - IMC/.idea/GA - IMC.iml" afterDir="false" />
@@ -10,28 +10,6 @@
       <change afterPath="$PROJECT_DIR$/../SD/.idea/SD.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../alien_invasion/.idea/alien_invasion.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../brkga_mp_ipr/.idea/brkga_mp_ipr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dados.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/0d292e16-2f1b-452b-9c91-4a3f9fed30cc_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/121ce726-7373-4285-b081-aedf6739b5a9_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/26d848a3-c517-4d4d-8832-e63ee13a8dac_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/292f91b7-24d3-4a4b-964f-4453d3f1ff4d_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/3561696f-a0e0-44d2-aecb-fd35fc40293f_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/42d83982-54e1-493e-b36f-96f35b8aa493_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/46f15729-1fd9-41fa-af2f-b6b96130fd85_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/4e87c30d-ee86-46aa-8b62-77115f24b238_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/54511a2e-e83b-4bd7-9da5-367ab7bba81e_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/8b14b4e0-b282-4b2b-a14f-2505404c37d4_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/a0f8ac28-24c3-49dd-872e-0659f86f2583_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/a68b14af-8581-4a29-b886-f3899122ef82_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/ac7e46e3-2f10-4ca5-a930-c21001ab7c45_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/b9b0d7ac-fba3-4999-9a0e-b0fa66c12a23_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archive/teste.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../entradas_obj/.idea/entradas_obj.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ga/.idea/ga.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mateheuristica/.idea/mateheuristica.iml" afterDir="false" />
@@ -46,50 +24,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2TZSzPTldXQ7UalAVooyM232iGk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2TZXkw6HJeVrnypvTEP7PHImKk3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a8eeef45-95f6-4406-bbfe-bddad5a25385" name="Changes" comment="" />
-      <created>1691249371656</created>
+      <changelist id="6a2ac02f-ab76-43b1-a72c-f71d505c4354" name="Changes" comment="" />
+      <created>1691251722468</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1691249371656</updated>
+      <updated>1691251722468</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
